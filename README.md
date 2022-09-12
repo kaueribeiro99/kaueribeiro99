@@ -1,4 +1,4 @@
-<h4> Olá, eu sou Kauê Ribeiro, Desenvolvedor Front-end </h4>
+<h3> Olá, eu sou Kauê Ribeiro, Desenvolvedor Front-end </h3>
 <div align="left">
   <a href="https://github.com/kaueribeiro99">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaueribeiro99&layout=compact&langs_count=7&theme=light"/>
