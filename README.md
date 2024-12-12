@@ -1,6 +1,6 @@
 <h3>Olá, eu sou o Kauê!</h3>
-<p>Sou desenvolvedor com experiência em Angular, Python e Laravel.</p>
-<h4> Bem vindo ao meu perfil do Github 👋 </h4>
+<h4>Sou desenvolvedor com experiência em Angular, Python e Laravel.</h4>
+<h5> Bem vindo ao meu perfil do Github 👋 </h5>
 <div align="left">
   <a href="https://github.com/kaueribeiro99">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaueribeiro99&layout=compact&langs_count=7&theme=light"/>
