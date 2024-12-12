@@ -1,4 +1,4 @@
-<h3> Olá, eu sou o Kauê ! Desenvolvedor Front-end </h3>
+<h3> Olá, eu sou o Kauê ! Desenvolvedor </h3>
 <h4> Bem vindo ao meu perfil do Github 👋 </h4>
 <div align="left">
   <a href="https://github.com/kaueribeiro99">
