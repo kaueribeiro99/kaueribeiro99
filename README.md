@@ -1,4 +1,5 @@
-<h3> Olá, eu sou o Kauê ! Desenvolvedor </h3>
+<h3>Olá, eu sou o Kauê!</h3>
+<p>Sou desenvolvedor com experiência em Angular, Python e Laravel.</p>
 <h4> Bem vindo ao meu perfil do Github 👋 </h4>
 <div align="left">
   <a href="https://github.com/kaueribeiro99">
@@ -16,7 +17,7 @@
 <h5> Redes Sociais </h5>
  
 <div> 
-  <a href = "mailto:kauedejesusrodriguesribeiiro@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoft&logoColor=white"target="_blank"></a>
+  <a href = "mailto:kauedejesusrodriguesribeiro@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoft&logoColor=white"target="_blank"></a>
   <a href="https://www.linkedin.com/in/kauê-de-jesus-rodrigues-ribeiro-537981108/"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
